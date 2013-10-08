@@ -68,7 +68,6 @@ def type_b(t,length,n):
 		lt(t,60)
 		type_b(t,length/sqrt(7),n-1)
 
-
 # for i in range(0,6):
 # 	gosper(bob,20,1)
 
