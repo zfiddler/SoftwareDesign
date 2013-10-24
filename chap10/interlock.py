@@ -12,5 +12,3 @@ def interlock():
 
 		if word1 in t and word2 in t:
 			print word1,word2, word
-
-interlock()
